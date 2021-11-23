@@ -1,1 +1,1 @@
-# Test-assignment-Junior-developer
+# https://kronos-it.github.io/Test-assignment-Junior-developer/
